@@ -1,0 +1,37 @@
+/* Light Theme Professional AI Research Dashboard Styles for Streamlit */
+.stApp {
+  background-color: #F8FAFC;
+  color: #172033;
+}
+
+section[data-testid="stSidebar"] {
+  background-color: #FFFFFF;
+  border-right: 1px solid #E2E8F0;
+}
+
+div[data-testid="stMetric"] {
+  background-color: #FFFFFF;
+  border: 1px solid #E2E8F0;
+  border-radius: 12px;
+  padding: 16px;
+}
+
+.fer-card {
+  background-color: #FFFFFF;
+  border: 1px solid #E2E8F0;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 16px;
+}
+
+.stButton > button[kind="primary"] {
+  background-color: #315EAD;
+  border-color: #315EAD;
+  color: #FFFFFF;
+  border-radius: 8px;
+}
+
+.stButton > button[kind="primary"]:hover {
+  background-color: #274C8E;
+  border-color: #274C8E;
+}

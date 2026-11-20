@@ -1,0 +1,10 @@
+{
+  "name": "Remix EmotioSense AI",
+  "description": "A premium AI dashboard for real-time facial expression recognition and emotion analytics using deep learning.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
